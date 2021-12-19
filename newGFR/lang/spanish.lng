@@ -1,0 +1,10 @@
+##grflangid 0x04
+# Archivo de idioma en Español
+
+# GRF Metadata
+STR_GRF_NAME        :Ciudades de la Provincia de Buenos Aires
+STR_GRF_DESCRIPTION :Añade mas de 200 nombres de pueblos de la Provincia de Buenos Aires
+STR_GRF_URL         :https://github.com/Joel-Milligan/openttd-wa-town-names
+
+# GRF Data
+STR_MENU            :Ciudades de Buenos Aires
